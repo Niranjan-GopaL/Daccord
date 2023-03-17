@@ -1,0 +1,14 @@
+Mainly there are 2 sidebars and a main workspace
+
+one clicking a rectangle : the left sidebar shows all the stuff about that rectangle
+
+on dragging, it will move in x , y ,z direction
+but on dragging while pressing alt , we can rotate it in 3D 
+
+In the material section in the sidebar for that component ,
+in the color option you can upload an image
+
+You can add new material and customise it. Give it some gradient in
+whatever direction you want 
+
+You can copy an entire "material"
